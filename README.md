@@ -16,9 +16,9 @@ console.log("Event End.");
 **Output of this code snippet.**
 
 > Event Start up.
-> Event End.
-> Wait 0 Seconds.
-> Wait 2 Seconds.
+Event End.
+Wait 0 Seconds.
+Wait 2 Seconds.
 
 **Lets understand the code behavior.**
 
