@@ -3,11 +3,11 @@
 ```sh
 console.log("Event Start up.");
 
-setTimeOut(()=>{
+setTimeout(()=>{
 	console.log("Wait 2 Seconds")
 },2000);
 
-setTimeOut(()=>{
+setTimeout(()=>{
 	console.log("Wait 0 Seconds")
 },0);
 
